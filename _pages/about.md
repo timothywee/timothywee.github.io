@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in the statistics department at Yale University, advised by Sekhar Tatikonda. I am broadly interested in **high-dimensional probability and statistics**, as well as statistical physics, in particular **spin glasses and disordered systems**. To elaborate, I am interested in the following topics:
+I am a postdoc in the School of Mathematics at Georgia Tech, hosted by Cheng Mao. I received my PhD in statistics in 2024 from Yale University, advised by Sekhar Tatikonda. I am broadly interested in **high-dimensional probability and statistics**, as well as statistical physics, in particular **spin glasses and disordered systems**. To elaborate, I am interested in the following topics:
 
 * Understanding dependence structures, phase transitions, and the efficacy of message-passing algorithms in diluted and mean-field models. I am especially interested in elucidating the underlying mechanisms behind variational principles for free energies.
 
