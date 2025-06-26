@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Skiles, Rm 23 </p>
+    <p>Skiles, Rm 23</p>
     <p>686 Cherry St NW</p>
     <p>Atlanta, GA 30332</p>
 
@@ -25,7 +25,7 @@ I am a postdoc in the School of Mathematics at Georgia Tech, hosted by Cheng Mao
 
 * Statistical physics techniques in planted models, leading to insights about the fundamental limits of inference and algorithm design.
 
-# * Chaining frameworks for bounding suprema of stochastic processes---especially algorithms and explicit constructions of majorizing measures or weighted partitions and their applications in statistics or computer science problems.
+<!-- # * Chaining frameworks for bounding suprema of stochastic processes---especially algorithms and explicit constructions of majorizing measures or weighted partitions and their applications in statistics or computer science problems. -->
 
 Feel free to reach out if you would like to chat about any of these subjects. Otherwise I'm sure we can find something interesting to discuss!
 
