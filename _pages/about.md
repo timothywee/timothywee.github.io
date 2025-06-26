@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Skiles, Rm 23</p>
+    <p>Skiles, Rm 23<br></p>
     <p>686 Cherry St NW</p>
     <p>Atlanta, GA 30332</p>
 
