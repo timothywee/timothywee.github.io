@@ -19,17 +19,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a postdoc in the School of Mathematics at Georgia Tech, hosted by Cheng Mao. I received my PhD in statistics in 2024 from Yale University, advised by Sekhar Tatikonda. I am broadly interested in **high-dimensional probability and statistics**, as well as statistical physics, in particular **spin glasses and disordered systems**. To elaborate, I am interested in the following topics:
+I am a Visiting Assistant Professor (postdoc) in the School of Mathematics at Georgia Tech, hosted by Cheng Mao. I received my PhD in statistics in 2024 from Yale University, advised by Sekhar Tatikonda. I am broadly interested in **high-dimensional probability and statistics**, as well as statistical physics and their applications to statistics and computer science. To elaborate, I am interested in the following topics:
 
-* Understanding dependence structures, phase transitions, and the efficacy of message-passing algorithms in diluted and mean-field models. I am especially interested in elucidating the underlying mechanisms behind variational principles for free energies.
+* Statistical physics techniques in planted and spiked models, leading to insights about the fundamental limits of inference and algorithm design.
 
-* Statistical physics techniques in planted models, leading to insights about the fundamental limits of inference and algorithm design.
+* Spin glasses and disordered systems, and Gibbs measures on random graphs.
 
 <!-- # * Chaining frameworks for bounding suprema of stochastic processes---especially algorithms and explicit constructions of majorizing measures or weighted partitions and their applications in statistics or computer science problems. -->
 
 Feel free to reach out if you would like to chat about any of these subjects. Otherwise I'm sure we can find something interesting to discuss!
-
-
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
