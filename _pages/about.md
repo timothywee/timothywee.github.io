@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Skiles, Rm 23,</p>
-    <p>686 Cherry St NW</p>
-    <p>Atlanta, GA 30332</p>
+    <p>Klaus Advanced Computing, 2111</p>
+    <p>and Groseclose, 228-C</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -19,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Visiting Assistant Professor (postdoc) in the School of Mathematics at Georgia Tech, hosted by Cheng Mao. I received my PhD in statistics in 2024 from Yale University, advised by Sekhar Tatikonda. I am broadly interested in **high-dimensional probability and statistics**, as well as statistical physics and their applications to statistics and computer science. To elaborate, I am interested in the following topics:
+I am a Visiting Assistant Professor in the School of Mathematics at Georgia Tech, hosted by Cheng Mao. I am also a postdoctoral fellow at the Algorithms and Randomness Center. I received my PhD in statistics in 2024 from Yale University, advised by Sekhar Tatikonda. I am broadly interested in **high-dimensional probability and statistics**, as well as statistical physics and their applications to statistics and computer science. In particular, I am interested in the following topics:
 
 * Statistical physics techniques in planted and spiked models, leading to insights about the fundamental limits of inference and algorithm design.
 
