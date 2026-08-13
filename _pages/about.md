@@ -22,7 +22,7 @@ I am a Visiting Assistant Professor in the School of Mathematics at Georgia Tech
 
 * Statistical physics techniques in planted and spiked models, leading to insights about the fundamental limits of inference and algorithm design.
 
-* Spin glasses and disordered systems, and Gibbs measures on random graphs.
+* Spin glasses and disordered systems.
 
 <!-- # * Chaining frameworks for bounding suprema of stochastic processes---especially algorithms and explicit constructions of majorizing measures or weighted partitions and their applications in statistics or computer science problems. -->
 
