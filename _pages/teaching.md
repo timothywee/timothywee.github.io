@@ -2,11 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: false #true
+description: Georgia Institute of Technology
+nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+- Fall 2024: MATH 1552 Integral Calculus
+- Spring 2025: MATH 1552 Integral Calculus
+- Fall 2025: MATH 3670 Probability and Statistics with Applications
+- Spring 2026: MATH 3236 Statistical Theory
+- Fall 2026: [MATH 4261 Mathematical Statistics I]({{ '/teaching/math4261-fall2026/' | relative_url }})
